@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\C#\Home Work 5\task7\bin\Debug\net8.0\task7.exe
+C:\Users\Администратор\Desktop\C#\Home Work 5\task7\bin\Debug\net8.0\task7.deps.json
+C:\Users\Администратор\Desktop\C#\Home Work 5\task7\bin\Debug\net8.0\task7.runtimeconfig.json
+C:\Users\Администратор\Desktop\C#\Home Work 5\task7\bin\Debug\net8.0\task7.dll
+C:\Users\Администратор\Desktop\C#\Home Work 5\task7\bin\Debug\net8.0\task7.pdb
+C:\Users\Администратор\Desktop\C#\Home Work 5\task7\obj\Debug\net8.0\task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\C#\Home Work 5\task7\obj\Debug\net8.0\task7.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\C#\Home Work 5\task7\obj\Debug\net8.0\task7.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\C#\Home Work 5\task7\obj\Debug\net8.0\task7.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\C#\Home Work 5\task7\obj\Debug\net8.0\task7.dll
+C:\Users\Администратор\Desktop\C#\Home Work 5\task7\obj\Debug\net8.0\refint\task7.dll
+C:\Users\Администратор\Desktop\C#\Home Work 5\task7\obj\Debug\net8.0\task7.pdb
+C:\Users\Администратор\Desktop\C#\Home Work 5\task7\obj\Debug\net8.0\task7.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\C#\Home Work 5\task7\obj\Debug\net8.0\ref\task7.dll
